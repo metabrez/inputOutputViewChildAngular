@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "componet-interation"
+    }
+  },
+  "defaultProject": "componet-interation",
+  "cli": {
+    "analytics": false
+  }
 }
